@@ -4,7 +4,7 @@ A presentation about deep reinforcement learning
 ![alt text](images/cc-logo.png "CC")
 
 
-Licensed under [creative commons](https://github.com/felipessalvatore/RNNpresentation/blob/master/LICENSE)
+Licensed under [creative commons](https://github.com/LIAMF-USP/DeepRLpresentation/blob/master/LICENSE)
 
 
 ## Usage
